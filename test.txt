@@ -2,5 +2,9 @@ Prueba No. 1
 Prueba No. 2
 Prueba No. 3
 Prueba remota
+<<<<<<< HEAD
 Prueba de git pull
 prueba de git push
+=======
+Prueba de git pull
+>>>>>>> 85fa47eb90a53151d87288722320dfaa1a17bd18
